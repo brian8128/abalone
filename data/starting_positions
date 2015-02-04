@@ -1,6 +1,7 @@
 // Starting positions.  
 // We represent the starting positions as 2d arrays.  Ignoring whitespace that is what we get,
 // however we can use whitespace to make the boards look more realistic.  
+// Feel free to change the format to make it easier to parse.  
 
 Name: Close Quarter Combat
 Game To: 3
