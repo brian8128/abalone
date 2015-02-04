@@ -3,6 +3,7 @@
 // however we can use whitespace to make the boards look more realistic.  
 
 Name: Close Quarter Combat
+Game To: 3
 Position:
 NULL, NULL, NULL, NULL,    0,    0,    0,    0,    0
   NULL, NULL, NULL,    0,    0,    0,    0,    0,    0
@@ -12,4 +13,17 @@ NULL, NULL, NULL, NULL,    0,    0,    0,    0,    0
             -1,   -1,    1,   -1,    1,   -1,    1,    1, NULL
                0,    0,    1,    0,   -1,    0,    0, NULL, NULL
                  0,    0,    0,    0,    0,    0, NULL, NULL, NULL
+                   0,    0,    0,    0,    0, NULL, NULL, NULL, NULL
+
+Name: Short Game
+Game To: 2
+Position:
+NULL, NULL, NULL, NULL,    0,    0,    0,    0,    0
+  NULL, NULL, NULL,    0,    0,   -1,   -1,    0,    0
+    NULL, NULL,    0,    0,   -1,   -1,   -1,    0,    0
+      NULL,    0,    0,   -1,   -1,   -1,   -1,    0,    0
+           0,    0,    0,    0,    0,    0,    0,    0,    0
+             0,    0,    1,    1,    1,    1,    0,    0, NULL
+               0,    0,    1,    1,    1,    0,    0, NULL, NULL
+                 0,    0,    1,    1,    0,    0, NULL, NULL, NULL
                    0,    0,    0,    0,    0, NULL, NULL, NULL, NULL
